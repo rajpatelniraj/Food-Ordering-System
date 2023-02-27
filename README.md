@@ -18,7 +18,7 @@ Ordering Page
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/rajpatelniraj)
+- [@rajpatelniraj](https://www.github.com/rajpatelniraj)
 
 
 ## Feedback
